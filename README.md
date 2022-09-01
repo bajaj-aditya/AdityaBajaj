@@ -1,4 +1,4 @@
-# [Aditya Bajaj - Self Project Persoanl Website](https://bajaj-aditya.github.io/AdityaBajaj/)
+# [Aditya Bajaj - Self Project Personal Website](https://bajaj-aditya.github.io/AdityaBajaj/)
 
 Here is the Link: https://bajaj-aditya.github.io/AdityaBajaj/
 
